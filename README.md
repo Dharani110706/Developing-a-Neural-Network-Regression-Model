@@ -4,8 +4,7 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-The objective of this experiment is to design, implement, and evaluate a Deep Learning–based Neural Network regression model to predict a continuous output variable from a given set of input features. The task is to preprocess the data, construct a neural network regression architecture, train the model using backpropagation and gradient descent, and evaluate its performance using appropriate regression metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.
-
+A Neural Network Regression Model is a machine learning approach used to predict continuous numerical values by learning the relationship between input features and output targets. Unlike traditional regression techniques, neural networks are capable of modeling complex and nonlinear relationships due to their multi-layered structure. A typical neural network consists of an input layer that receives data, one or more hidden layers that process the data through weighted connections and activation functions, and an output layer that produces the final prediction. In regression problems, the output layer usually contains a single neuron with a linear activation function to generate continuous values.
 ## Neural Network Model
 
 <img width="1079" height="741" alt="image" src="https://github.com/user-attachments/assets/3ae0e886-7498-457c-9560-e6222e32aa46" />
